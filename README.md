@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋! Nice to see you here. </h1>
-<h3 align="center">Welcome to my page! I'm Qinyi Chen, a passionate software developer in the US 🇺🇸 </h3>
+<h3 align="center">Welcome to my page! I'm Qinyi Chen, a passionate software developer in the US 🇺🇸.
+
+I will graduate from Harvard University in May, 2023, seeking a job as a software engineer 👩‍💻. </h3>
 
 
 
